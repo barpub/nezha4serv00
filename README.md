@@ -8,5 +8,5 @@ bash <(curl -s https://raw.githubusercontent.com/k0baya/nezha4serv00/main/instal
 
 Agent installation:
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/k0baya/nezha4serv00/main/install-agent.sh)
+bash <bash <(curl -s https://raw.githubusercontent.com/barpub/nezha4serv00/main/install-dashboard.sh)
 ```
